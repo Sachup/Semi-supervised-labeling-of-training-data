@@ -7,9 +7,11 @@ The code named 'Code_to _crop_objects_from_KITTI_dataset' crops the images from 
 The initial interest of the work was to identify the images from input dataset which have the object of interest.The following 2 codes are employed to implement the 2 different models developed.
 
 The code 'Siamese_model' implements the Siamese neural network for identifying similar objects from the test dataset.
+
 The code 'Transfer_Learning_mobilenet_with_sliding_window' classifies the specific object of interest from test dataset.
 
 Later the focus of the study was to localize the identified object.The following codes are employed to implement mobilenet SSD or EfficientDet D0 model for identifying the rare object of interest from the large input dataset.
 
 The code '1.Object_Localization-Labelling' is used to label the the training data with specific object.
+
 The code '2.Object _Localization_MobilenetSSD_and_Efficientdet' is used for training and testing the specific rare object of interest.
