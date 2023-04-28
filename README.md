@@ -14,4 +14,4 @@ Later the focus of the study was to localize the identified object.The following
 
 The code '1.Object_Localization-Labelling' is used to label the the training data with specific object.
 
-The code '2.Object _Localization_MobilenetSSD_and_Efficientdet' is used for training and testing the specific rare object of interest.
+The code '2.Object _Localization_MobilenetSSD_and_Efficientdet' is used for training and testing the specific rare objects of interest.
